@@ -4,6 +4,9 @@
 
 This project explores real NHS A&E Emergency Care data between April 2024 and March 2025 to uncover patterns in patient attendance, emergency admissions, and long waiting times (12+ hours). The goal was to build a **visually compelling Power BI dashboard** and deliver **insights for operational improvement** in the NHS.
 
+![Screenshot 2025-07-09 022248](https://github.com/user-attachments/assets/51665c69-27c7-42b5-9e6d-bc8034a1a8bc)
+
+
 ## Key Features
 
 - 🔗 Real NHS data from [NHS England A&E Portal](https://www.england.nhs.uk/statistics/statistical-work-areas/ae-waiting-times-and-activity/)
@@ -31,6 +34,11 @@ This project explores real NHS A&E Emergency Care data between April 2024 and Ma
 - **University Hospitals Birmingham NHS Foundation Trust** recorded the highest 12+ hour waits: 2,232 in Oct 2024.
 - Attendance peaked in March 2025 to 2.99M.
 - Trusts like Alder Hey Children’s NHS FT had **zero long waits** all year.
+
+Dashboard:
+
+![Screenshot 2025-07-09 153527](https://github.com/user-attachments/assets/5cd9fe38-09e6-43a8-b83a-9c0646cf9123)
+
 
 ---
 
