@@ -17,7 +17,7 @@ This project explores real NHS A&E Emergency Care data between April 2024 and Ma
 
 ---
 
-## 🛠Tools & Technologies
+## Tools & Technologies
 
 - Python (pandas)
 - Azure SQL Database
